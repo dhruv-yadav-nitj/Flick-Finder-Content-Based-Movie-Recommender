@@ -1,6 +1,6 @@
 # Flick Finder
 
-This content based movie recommender application leverages the Streamlit web framework to provide an intuitive and interactive user interface for recommending movies. The recommendations are generated based on a pre-trained similarity model and movie visuals are fetched using the TMDB API.
+This content based movie recommender application leverages the Streamlit web framework to provide an intuitive and interactive user interface for recommending movies. The recommendations are generated based on a similarity model trained on data (including cast, crew, story, etc.) of the movies and movie visuals are fetched using the TMDB API.
 
 ## Features
 
